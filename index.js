@@ -14,6 +14,7 @@ function shout(string) {
   function logWhisper (string) {
     console.log(string.toLowerCase( ));
   }
+//Nice coding i like it
 
   function sayHiToHeadphonedRoommate (string) {
     var cantUnswer = "I can't hear you!";
